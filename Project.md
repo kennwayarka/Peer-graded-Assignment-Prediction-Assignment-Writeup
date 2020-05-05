@@ -1,6 +1,6 @@
 # Prediction Assignment Writeup
-Maciej Glinkowski  
-October 16, 2016  
+Arka Rahman
+May 05, 2020
 
 The goal of this project is to predict the manner in which people did the exercise.
 
